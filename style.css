@@ -87,8 +87,6 @@ body {
     margin-top: 1.5rem;
 }
 
-/* Responsive Design (Media Queries) */
-
 /* Tablet */
 @media (max-width: 900px) {
     .main-layout {
@@ -113,6 +111,5 @@ body {
 
     .sidebar {
         order: -1;
-        /* Sidebar appears above content on mobile */
     }
 }
